@@ -1,6 +1,7 @@
 # pokedex
 
 A new Flutter project.
+#รับ ส่ง แสดงผลข้อมูลจาก API
 
 ## Getting Started
 
